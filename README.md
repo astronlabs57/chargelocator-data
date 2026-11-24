@@ -22,3 +22,8 @@ built daily by an automated job from official open charging data. No code, only 
 Data has been summarised (charge points grouped into locations, prices simplified and converted to consumer prices).
 Prices are ad-hoc prices as published by the operators; the price shown at the charger is binding. No guarantee of
 completeness or correctness.
+
+## Privacy policy
+
+The Charge Locator privacy policy is maintained at https://astronlabs.dev/privacy/chargelocator.html.
+`privacy.html` in this repo only redirects there (kept so old app versions and links keep working).
